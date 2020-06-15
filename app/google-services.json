@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "535678479571",
+    "firebase_url": "https://prescriptionviewer-3edc4.firebaseio.com",
+    "project_id": "prescriptionviewer-3edc4",
+    "storage_bucket": "prescriptionviewer-3edc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535678479571:android:4491172ec8d0e2a6",
+        "android_client_info": {
+          "package_name": "com.example.charmi.prescriptionviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535678479571-75kk5t1q3pfunmkff2gdo7sgvjmbg8tn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.charmi.prescriptionviewer",
+            "certificate_hash": "e2dd0d9ef690688b390855c53d3f5761264c4ef3"
+          }
+        },
+        {
+          "client_id": "535678479571-f2232h6dqejou650jlhrnqcipd6vtren.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.charmi.prescriptionviewer",
+            "certificate_hash": "14234e3ad222d7c8dba5e143d41305a4cbc57461"
+          }
+        },
+        {
+          "client_id": "535678479571-a80217tjovuo3t7f7ioar3h1t9h3mjd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARMMS8jR_cu257X-HwuYMLR7KF4Wt4WII"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535678479571-a80217tjovuo3t7f7ioar3h1t9h3mjd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
