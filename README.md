@@ -28,5 +28,5 @@ Then patient enter its patient id in Prescription Viewer Android app on which pr
 # Screenshots application developed. 
 ### Web Application Screenshots:
 <img src="inc/OutputSC/WebAppSC1.JPG" width="350px" height="150px"> <img src="inc/OutputSC/WebAppSC2.JPG" width="350px" height="150px"> <img src="inc/OutputSC/WebAppSC3.JPG" width="350px" height="150px"> <img src="inc/OutputSC/WebAppSC4.JPG" width="350px" height="150px"> <img src="inc/OutputSC/WebAppSC5.JPG" width="350px" height="150px">
-### Andriod App Application:
+### Andriod App:
 <img src="inc/OutputSC/AndriodloginSC.png" width="150px" height="250px"> <img src="inc/OutputSC/AndriodpresSC.png" width="150px" height="250px">
